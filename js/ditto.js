@@ -114,7 +114,7 @@ function searchbar_listener(event) {
     // event.preventDefault();
     var q = $('input[name=search]').val();
     if (q !== '') {
-      var url = 'https://github.com/codeyu/EnglishGrammarBook/search?utf8=✓&q=' + encodeURIComponent(q);
+      var url = 'https://github.com/codeyu/the-wisdom-of-trade-stocks/search?utf8=✓&q=' + encodeURIComponent(q);
       window.open(url, '_blank');
       win.focus();
     }
