@@ -86,7 +86,6 @@ body {
     margin: 0;
     padding-left: 30px;
     padding-top: 0;
-    list-style: none;
 }
 
 #sidebar ul li:before {  /* a hack to have dashes as a list style */
@@ -201,9 +200,9 @@ input.searchButton {
 	counter-increment: section;
 }
 
-#content h2:before {
+/* #content h2:before {
 	content: counter(section) ". ";
-}
+} */
 
 #content h3 {
     margin-top: 50px;
@@ -527,4 +526,8 @@ color: #66d9ef;
 
 .token.entity {
 	cursor: help;
+}
+
+ol {
+    list-style: none;
 }
