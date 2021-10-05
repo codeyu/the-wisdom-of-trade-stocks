@@ -10,6 +10,7 @@
 1. [引子 三则故事](#docs/introduction)
 1. [第一章 炒股的挑战](#docs/the-challenge-of-trading-stocks)
 1. [第二章 股票分析的基本知识](#docs/basic-knowledge-of-stock-analysis)
+1. [第三章 炒股成功的要素](#docs/elements-of-success)
 
 ## 其他
 - [源码](https://github.com/codeyu/the-wisdom-of-trade-stocks)
