@@ -11,6 +11,7 @@
 1. [第一章 炒股的挑战](#docs/the-challenge-of-trading-stocks)
 1. [第二章 股票分析的基本知识](#docs/basic-knowledge-of-stock-analysis)
 1. [第三章 炒股成功的要素](#docs/elements-of-success)
+1. [第四章 何时买股票何时卖股票](#docs/when-to-buy-stocks-and-when-to-sell)
 
 ## 其他
 - [源码](https://github.com/codeyu/the-wisdom-of-trade-stocks)
