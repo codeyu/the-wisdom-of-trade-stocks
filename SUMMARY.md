@@ -10,6 +10,7 @@
   * [第二章 股票分析的基本知识](docs/basic-knowledge-of-stock-analysis.md)
   * [第三章 炒股成功的要素](docs/elements-of-success.md)
   * [第四章 何时买股票何时卖股票](docs/when-to-buy-stocks-and-when-to-sell.md)
+  * [第五章 华尔街的家训](docs/wall-street-family-motto.md)
 
 * 其他
   * [源码](https://github.com/codeyu/the-wisdom-of-trade-stocks)
