@@ -13,6 +13,9 @@
   * [第五章 华尔街的家训](docs/wall-street-family-motto.md)
   * [第六章 从有招迈向无招—怎样在心理上建设自己](#docs/moving-from-trick-to-no-trick.md)
   * [第七章 抓住大机会](#docs/seizing-big-opportunities.md)
+  * [第八章 和炒手们谈谈天](#docs/talking-to-the-investors.md)
+  * [第九章 善战者无赫赫之功](#docs/a-good-warrior-has-no-great-achievements.md)
+  * [附录 金钱的反思](#docs/reflections-on-money.md)
 
 * 其他
   * [源码](https://github.com/codeyu/the-wisdom-of-trade-stocks)
